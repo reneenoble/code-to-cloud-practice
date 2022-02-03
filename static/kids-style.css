@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+
+#invite {
+    background-image: url("imgs/kids-party1.jpg");
+    background-size: contain;
+    height: 800px;
+    width: 800px;
+    padding: 180px;
+    
+}
+
+body {
+    font-family: 'Gill Sans', 'sans-serif';
+    color: rgb(238, 119, 212); 
+}
+
+h3 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 22px;
+}
